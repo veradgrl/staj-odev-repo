@@ -10,6 +10,9 @@ import {
 } from "./functions.js";
 console.log("Bakiyeniz :", bakiye);
 
+console.log("vera");
+
+
 while (win) {
   const kullaniciGirisi = prompt(
     "Yapmak istediğiniz işlemin numarasını giriniz : \n1.bakiyemi görüntüle, \n2.para çek, \n3.para yatır, \n4.çıkış"
