@@ -7,7 +7,7 @@ import {
   onayla,
   win,
   iptal,
-} from "./functions.js";
+} from "./bankaFunctions.js";
 console.log("Bakiyeniz :", bakiye);
 
 console.log("vera");
